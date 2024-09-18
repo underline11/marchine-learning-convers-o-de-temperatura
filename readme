@@ -1,0 +1,16 @@
+# Conversão de Temperatura
+
+Este projeto é uma aplicação simples em Python para conversão de temperaturas entre Celsius, Fahrenheit e Kelvin. O objetivo é fornecer uma ferramenta prática para realizar conversões de temperatura com facilidade.
+
+## Funcionalidades
+
+- Conversão de Celsius para Fahrenheit e Kelvin
+- Conversão de Fahrenheit para Celsius e Kelvin
+- Conversão de Kelvin para Celsius e Fahrenheit
+
+## Instalação
+
+1. Clone o repositório:
+
+   
+   git clone https://github.com/SEU_USUARIO/conversao-temperatura.git
