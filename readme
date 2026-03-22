@@ -8,9 +8,3 @@ Este projeto é uma aplicação simples em Python que converte a temperatura de 
 - Cálculo da temperatura equivalente em Fahrenheit
 - Exibição do resultado da conversão
 
-## Instalação
-
-1. Clone o repositório:
-
-  
-   git clone https://github.com/SEU_USUARIO/conversao-temperatura.git
